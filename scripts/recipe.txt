@@ -1,0 +1,21 @@
+
+First attempt
+- Build leveldb
+- Build Boost
+- Build protobuf (https://gist.github.com/ksc91u/bef7e2482018a5d363b8)
+- build gflags
+- builf glog
+- import ACCELERATE lib, commenting in the import
+- install HDF5
+
+
+
+
+
+TODO
+- update the libraries:
+-- update leveldb
+-- update Boost
+-- change script to remove protobuf src in script
+-- gflags from zip instead of src
+-- create script for downloading and install HDF5

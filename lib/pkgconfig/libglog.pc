@@ -1,0 +1,10 @@
+prefix=/Users/giordano.scalzo/work/EC/AI/caffe/gscalzo/caffe/scripts/..
+exec_prefix=/Users/giordano.scalzo/work/EC/AI/caffe/gscalzo/caffe/scripts/../platform/x86_64-mac
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libglog
+Description: Google Log (glog) C++ logging framework
+Version: 0.3.4
+Libs: -L${libdir} -lglog
+Cflags: -I${includedir}

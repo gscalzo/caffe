@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4CD8186CE66A0AD46BD21DF2E9F43E65780546D2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2DDF1D4E528EDA8D8E5AF503BA5680A30604BD70" : 9223372036854775807,
+    "4CD8186CE66A0AD46BD21DF2E9F43E65780546D2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0189C03B-C2B1-4A26-9F16-4D1C456A7CDE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2DDF1D4E528EDA8D8E5AF503BA5680A30604BD70" : "caffe\/xcconfigs\/",
+    "4CD8186CE66A0AD46BD21DF2E9F43E65780546D2" : "caffe\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Caffe",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Caffe.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mrackwitz\/xcconfigs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2DDF1D4E528EDA8D8E5AF503BA5680A30604BD70"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:aleph7\/caffe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4CD8186CE66A0AD46BD21DF2E9F43E65780546D2"
+    }
+  ]
+}

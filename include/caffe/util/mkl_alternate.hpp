@@ -7,13 +7,13 @@
 
 #else  // If use MKL, simply include the MKL header
 
-#ifdef USE_ACCELERATE
+#ifdef __APPLE__
 #include <Accelerate/Accelerate.h>
 #else
 extern "C" {
 #include <cblas.h>
 }
-#endif  // USE_ACCELERATE
+#endif  // __APPLE__
 
 #include <math.h>
 
