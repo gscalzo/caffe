@@ -13,11 +13,11 @@
 # Compiled Static libraries
 *.lai
 *.la
-*.a
+
 
 # Compiled protocol buffers
-*.pb.h
-*.pb.cc
+#*.pb.h
+#*.pb.cc
 *_pb2.py
 
 # Compiled python
@@ -68,7 +68,6 @@ models/*
 *.solverstate
 *.solverstate.h5
 *.binaryproto
-*leveldb
 *lmdb
 
 # build, distribute, and bins (+ python proto bindings)
@@ -93,7 +92,6 @@ docs/dev
 *.sst
 *.ldb
 LOCK
-LOG*
 CURRENT
 MANIFEST-*
 
